@@ -30,8 +30,6 @@ Partial Class frmBridgeOfDeath
         Me.Label1 = New System.Windows.Forms.Label()
         Me.txtColor = New System.Windows.Forms.TextBox()
         Me.lblQ1Answer = New System.Windows.Forms.Label()
-        Me.lblQ2Answer = New System.Windows.Forms.Label()
-        Me.lblQ3Answer = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -49,7 +47,7 @@ Partial Class frmBridgeOfDeath
         '
         'txtName
         '
-        Me.txtName.Location = New System.Drawing.Point(172, 71)
+        Me.txtName.Location = New System.Drawing.Point(172, 61)
         Me.txtName.Name = "txtName"
         Me.txtName.Size = New System.Drawing.Size(100, 20)
         Me.txtName.TabIndex = 1
@@ -57,7 +55,7 @@ Partial Class frmBridgeOfDeath
         'lblQuestionOne
         '
         Me.lblQuestionOne.AutoSize = True
-        Me.lblQuestionOne.Location = New System.Drawing.Point(12, 71)
+        Me.lblQuestionOne.Location = New System.Drawing.Point(12, 61)
         Me.lblQuestionOne.Name = "lblQuestionOne"
         Me.lblQuestionOne.Size = New System.Drawing.Size(101, 13)
         Me.lblQuestionOne.TabIndex = 2
@@ -66,7 +64,7 @@ Partial Class frmBridgeOfDeath
         'lblQuestionTwo
         '
         Me.lblQuestionTwo.AutoSize = True
-        Me.lblQuestionTwo.Location = New System.Drawing.Point(12, 123)
+        Me.lblQuestionTwo.Location = New System.Drawing.Point(12, 102)
         Me.lblQuestionTwo.Name = "lblQuestionTwo"
         Me.lblQuestionTwo.Size = New System.Drawing.Size(101, 13)
         Me.lblQuestionTwo.TabIndex = 3
@@ -74,7 +72,7 @@ Partial Class frmBridgeOfDeath
         '
         'txtQuest
         '
-        Me.txtQuest.Location = New System.Drawing.Point(172, 123)
+        Me.txtQuest.Location = New System.Drawing.Point(172, 99)
         Me.txtQuest.Name = "txtQuest"
         Me.txtQuest.Size = New System.Drawing.Size(100, 20)
         Me.txtQuest.TabIndex = 4
@@ -82,7 +80,7 @@ Partial Class frmBridgeOfDeath
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 177)
+        Me.Label1.Location = New System.Drawing.Point(12, 145)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(136, 13)
         Me.Label1.TabIndex = 5
@@ -90,7 +88,7 @@ Partial Class frmBridgeOfDeath
         '
         'txtColor
         '
-        Me.txtColor.Location = New System.Drawing.Point(172, 177)
+        Me.txtColor.Location = New System.Drawing.Point(172, 142)
         Me.txtColor.Name = "txtColor"
         Me.txtColor.Size = New System.Drawing.Size(100, 20)
         Me.txtColor.TabIndex = 6
@@ -98,26 +96,10 @@ Partial Class frmBridgeOfDeath
         'lblQ1Answer
         '
         Me.lblQ1Answer.AutoSize = True
-        Me.lblQ1Answer.Location = New System.Drawing.Point(30, 97)
+        Me.lblQ1Answer.Location = New System.Drawing.Point(102, 195)
         Me.lblQ1Answer.Name = "lblQ1Answer"
         Me.lblQ1Answer.Size = New System.Drawing.Size(0, 13)
         Me.lblQ1Answer.TabIndex = 7
-        '
-        'lblQ2Answer
-        '
-        Me.lblQ2Answer.AutoSize = True
-        Me.lblQ2Answer.Location = New System.Drawing.Point(30, 150)
-        Me.lblQ2Answer.Name = "lblQ2Answer"
-        Me.lblQ2Answer.Size = New System.Drawing.Size(0, 13)
-        Me.lblQ2Answer.TabIndex = 8
-        '
-        'lblQ3Answer
-        '
-        Me.lblQ3Answer.AutoSize = True
-        Me.lblQ3Answer.Location = New System.Drawing.Point(30, 204)
-        Me.lblQ3Answer.Name = "lblQ3Answer"
-        Me.lblQ3Answer.Size = New System.Drawing.Size(0, 13)
-        Me.lblQ3Answer.TabIndex = 9
         '
         'Label2
         '
@@ -164,8 +146,6 @@ Partial Class frmBridgeOfDeath
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.lblQ3Answer)
-        Me.Controls.Add(Me.lblQ2Answer)
         Me.Controls.Add(Me.lblQ1Answer)
         Me.Controls.Add(Me.txtColor)
         Me.Controls.Add(Me.Label1)
@@ -188,8 +168,6 @@ Partial Class frmBridgeOfDeath
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents txtColor As System.Windows.Forms.TextBox
     Friend WithEvents lblQ1Answer As System.Windows.Forms.Label
-    Friend WithEvents lblQ2Answer As System.Windows.Forms.Label
-    Friend WithEvents lblQ3Answer As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
     Friend WithEvents Label4 As System.Windows.Forms.Label

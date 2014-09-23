@@ -9,3 +9,14 @@ h:\visual studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDea
 h:\visual studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.exe
 h:\visual studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.xml
 h:\visual studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.pdb
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\bin\Debug\BridgeOfDeath.exe.config
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.exe
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.xml
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.pdb
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\bin\Debug\BridgeOfDeath.exe
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\bin\Debug\BridgeOfDeath.pdb
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\bin\Debug\BridgeOfDeath.xml
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.vbprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.frmBridgeOfDeath.resources
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.Resources.resources
+H:\Visual Studio 2013\Projects\BridgeOfDeath\BridgeOfDeath\BridgeOfDeath\obj\Debug\BridgeOfDeath.vbproj.GenerateResource.Cache
